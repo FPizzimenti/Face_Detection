@@ -5,4 +5,5 @@ Nei file Dataset_età è presente il nostro dataset etichettato in tutti i forma
 
 Nei file Dataset_bin è presente il nostro dataset etichettato in binario (Minorenne/Maggiorenne) in tutti i formati YOLO.
 
-Qui è riportato il link al progetto Roboflow: https://app.roboflow.com/bimbi/bimbi_facce/10
+Qui è riportato il link al progetto Roboflow: https://app.roboflow.com/bimbi
+
