@@ -7,3 +7,5 @@ Nei file Dataset_bin è presente il nostro dataset etichettato in binario (Minor
 
 Qui è riportato il link al progetto Roboflow: https://app.roboflow.com/bimbi
 
+Link Google Colab per addestramento: in arrivo..
+
